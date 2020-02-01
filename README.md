@@ -5,15 +5,7 @@ This is an app using Express that allows the user to take notes, with titles for
 
 To use:
 
->Open the folder in a terminal in VSCode.
-
->Type "npm install" in the command line. This should install express, fs, and path.
-
->Type "node server.js"
-
->App should now be running on PORT 8080.
-
->Navigate to localhost:8080 in a browser window.
+>Navigate to https://vast-plains-00884.herokuapp.com/.
 
 >Type notes in the body and titles in the head, click the save icon in the corner to save. 
 
